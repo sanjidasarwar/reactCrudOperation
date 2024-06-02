@@ -17,7 +17,7 @@ function App() {
   console.log(info);
   return (
     <>
-      <Table />
+      <Table data={info} />
     </>
   )
 }
