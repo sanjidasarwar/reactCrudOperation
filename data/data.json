@@ -1,0 +1,12 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name" : "Sanjida",
+      "email" : "sanjida@yahoo.com",
+      "password" : "124567",
+      "phone":"654565",
+      "country": "bd"
+    }
+  ]
+}
